@@ -8,9 +8,6 @@
         "url": "http://www.macwright.org/"
     },
     "require": {
-        "robloach/component-installer": "*"
-    },
-    "require": {
         "components/jquery": "*"
     },
     "extra": {
