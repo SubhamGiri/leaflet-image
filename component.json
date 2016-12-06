@@ -2,7 +2,7 @@
     "name": "drmonty-leaflet-image",
     "repo": "drmonty/leaflet-image",
     "description": "export leaflet maps as images",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "homepage": "http://mapbox.github.io/leaflet-image",
     "author": {
         "name": "Tom MacWright",

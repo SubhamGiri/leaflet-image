@@ -2,7 +2,7 @@
     "name": "drmonty-leaflet-image",
     "description": "export leaflet maps as images",
     "homepage": "http://mapbox.github.io/leaflet-image",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "dependencies": {
         "jquery": "*"
     },
